@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8e8d831f-9ae1-413c-88f4-a88b05385b47" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/ml_models/outlier_detect/lof.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/lof_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ml_models/odd_detect/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ml_models/outlier_detect/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ml_models/odd_detect/hbos.py" beforeDir="false" afterPath="$PROJECT_DIR$/ml_models/outlier_detect/hbos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ml_models/odd_detect/iforest.py" beforeDir="false" afterPath="$PROJECT_DIR$/ml_models/outlier_detect/iforest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ml_models/odd_detect/knn.py" beforeDir="false" afterPath="$PROJECT_DIR$/ml_models/outlier_detect/knn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ml_models/odd_detect/phbos.py" beforeDir="false" afterPath="$PROJECT_DIR$/ml_models/outlier_detect/phbos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/20_01_异常检测_HBOS.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/20_01_异常检测_HBOS.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/20_01_异常检测_pHBOS.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/20_01_异常检测_pHBOS.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/20_02_异常检测_iForest.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/20_02_异常检测_iForest.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/20_03_异常检测_KNN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/20_03_异常检测_KNN.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/hbos_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/hbos_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/iforest_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/iforest_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/knn_odd_detect_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/knn_odd_detect_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/phbos_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/phbos_test.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jVgazELSPVLrtMLxZUgjT84tw7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="shi&#9;null&#9;null" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\OneDriver\OneDrive - email.swu.edu.cn\self\learning\self_project\ML_Notes\tests" />
+      <recent name="D:\OneDriverCloud\OneDrive - email.swu.edu.cn\self\learning\self_project\ML_Notes\tests" />
+      <recent name="D:\OneDriverCloud\OneDrive - email.swu.edu.cn\self\learning\self_project\ML_Notes\ml_models\wrapper_models" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\OneDriverCloud\OneDrive - email.swu.edu.cn\self\learning\self_project\ML_Notes\tests" />
+      <recent name="D:\OneDriver\OneDrive - email.swu.edu.cn\self\learning\self_project\ML_Notes" />
+      <recent name="D:\OneDriver\OneDrive - email.swu.edu.cn\self\learning\self_project\ML_Notes\ml_models" />
+      <recent name="D:\OneDriverCloud\OneDrive - email.swu.edu.cn\self\learning\self_project\ML_Notes\ml_models" />
+      <recent name="D:\OneDriverCloud\OneDrive - email.swu.edu.cn\self\learning\self_project\ML_Notes" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.lof_test">
+    <configuration name="lof_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ML_Notes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/lof_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pca_hbos_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ML_Notes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="E:\datas\JianGuoYun\我的坚果云\learning\self_project\ML_Notes\tests\pca_hbos_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="phbos_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ML_Notes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/phbos_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <module name="ML_Notes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.lof_test" />
+        <item itemvalue="Python.phbos_test" />
+        <item itemvalue="Python.phbos_test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e8d831f-9ae1-413c-88f4-a88b05385b47" name="Default" comment="" />
+      <created>1570800168622</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570800168622</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/cart_regressor_test.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="182" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/dart_classifier_test.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="244" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/ffm_test1.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="574" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/shap_test.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="601" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ml_models/cluster/spectral.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="602" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ml_models/cluster/spectral.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="604" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="range(0,0)" language="Python" />
+        <watch expression="list(range(0,0))" language="Python" />
+        <watch expression="list(range(0,0,-1))" language="Python" />
+        <watch expression="X.shape" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
